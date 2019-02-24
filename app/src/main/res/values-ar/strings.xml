@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"إلكتروبيكيا "</string>
+    <string name="your_name">اسمك</string>
+    <string name="already_i_have_account">لدي حساب</string>
+    <string name="assuit">اسيوط</string>
+    <string name="choose_your_needs">اختار احتياجك</string>
+    <string name="computers">"كمبيوتر "</string>
+    <string name="done">تم</string>
+    <string name="login">دخول</string>
+    <string name="login_to_eb_world">الدخول الي عالم اليكتروبيكيا</string>
+    <string name="mobile">موبيل</string>
+    <string name="noaccount">ليس لدي حساب</string>
+    <string name="other">اخري</string>
+    <string name="password">كلمة مرور</string>
+    <string name="printer">طابعات</string>
+    <string name="qena">قنا</string>
+    <string name="re_password">اعادة كلمة المرور</string>
+    <string name="register">تسجيل</string>
+    <string name="repair_center">مراكز الصيانة</string>
+    <string name="scan_your_device">صور جهازك</string>
+    <string name="scan_your_old_device">تصوير الجهاز</string>
+    <string name="select_your_city">"اختار المدينة "</string>
+    <string name="sell_for_eb">البيع لEb</string>
+    <string name="send_your_request">ارسال طلبك</string>
+    <string name="slogn">احصل علي المال من جهازك القديم</string>
+    <string name="sohag">سوهاج</string>
+    <string name="telephone">تليفون</string>
+    <string name="title_activity_home__regist">تسجيل</string>
+    <string name="tvs">تليفزيزن</string>
+    <string name="world">مرحبا بك في عالم اليكتروبيكيا</string>
+    <string name="your_mail">ايميلك</string>
+</resources>

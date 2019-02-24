@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Electrobekia</string>
+    <string name="title_activity_home__regist">Home_Regist</string>
+    <string name="your_name">your name</string>
+    <string name="your_mail">your mail</string>
+    <string name="password">password</string>
+    <string name="re_password">Re-password</string>
+    <string name="already_i_have_account">Already I have account</string>
+    <string name="register">register</string>
+    <string name="login">Login</string>
+    <string name="world">Welcome to Electrobekia World</string>
+    <string name="login_to_eb_world">Login to EB world</string>
+    <string name="noaccount">l don\'t have account</string>
+    <string name="computers">Computers</string>
+    <string name="mobile">Mobile</string>
+    <string name="other">Other</string>
+    <string name="printer">Printer</string>
+    <string name="tvs">TVs</string>
+    <string name="telephone">Telephone</string>
+    <string name="scan_your_old_device">Scan Your Old Device</string>
+    <string name="scan_your_device">Scan your device</string>
+    <string name="send_your_request">Send your Request</string>
+    <string name="choose_your_needs">Choose your needs</string>
+    <string name="repair_center">Repair Center</string>
+    <string name="sell_for_eb">Sell for EB</string>
+    <string name="assuit">Assuit</string>
+    <string name="done">Done</string>
+    <string name="qena">Qena</string>
+    <string name="select_your_city">Select Your City</string>
+    <string name="sohag">Sohag</string>
+    <string name="slogn">Get Money from your old device</string>
+    <string name="added">Added</string>
+</resources>
